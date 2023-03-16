@@ -6,7 +6,7 @@ Coronavirus disease (COVID-19) is an infectious disease caused by a newly discov
 
 Nigeria is a country with 37 states - Federal Capital Territory included- and a fast-growing economic environment with about 200 million citizens. COVID-19 has affected several country activities as the country steadily progressed from its first case to shutting down major airports, state-wide lockdown, curfews, and reviving its economy.
 
-# PROJECT OBJECTIVE
+# PROJECT APPROACHES
 In this project, data science and analytics skills are employed to collect data, explore the data, perform analysis, create visualizations, and generate insights.
 
 ## DATA INFORMATION 
@@ -25,7 +25,7 @@ The data source is divided into different parts, and combined to perform analysi
 
 5. State Budget Data will also be used to determine the impact of COVID-19 on the economy across the states in the country.
 
-# ANALYSIS QUESTION
+## ANALYSIS QUESTION
 Some questions that my exploration seek to answer upon analysis of given data and the data collected from diverse sources are:
 
 1. Explore the distribution of the virus spread across each states, the numeric effect on each state through the distribution of the confirmed, discharged and the death cases in Nigeria states.
