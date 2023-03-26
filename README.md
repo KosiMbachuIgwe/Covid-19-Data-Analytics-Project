@@ -1,5 +1,3 @@
-# Covid-19 Data Analytics Project
-
 # Nigeria-Covid-19-Data-Analytics-Project-Using-Python
 This project provides data analytics skills in collecting, exploring, perform analysis, create visualizations, and generate insights of COVID-19 data central to Nigeria in terms of penetration of the virus across each states, Real Domestic Gross Product and State Budget in relation to the pandemics.
 
